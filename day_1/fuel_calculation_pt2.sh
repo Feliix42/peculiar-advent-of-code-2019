@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# set -euo pipefail
+set -euo pipefail
 
 function calculate_fuel_required () {
     mass=$1
@@ -18,8 +18,6 @@ function calculate_fuel_required () {
 
 inputfile='../input/day_1.txt'
 overall_sum=0
-
-# bla=$(calculate_fuel_required 200)
 
 while read line;
 do
