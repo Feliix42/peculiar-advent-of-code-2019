@@ -11,3 +11,4 @@ Input files are kept in the `input/` folder following the scheme `day_X.txt` and
 
 - Bash sucks. Hard. Doing math things is incredibly painful and functions with their `return` statement are weird. Just don't do that.
 - Doing Day 2 in VimL was actually fun. The language is way more mature than I ever expected and is incredibly expressive. Given that it was the first piece of code I wrote in this language (aside from my `.vimrc`) I am pretty satisfied with the result. It just lacks a proper way to execute it without firing up the whole `vim` instance.
+- Swift provides really nice ergonomics and an intuitive syntax. If it hadn't been for the lacking non-OSX support in the early days, I might would have ended up to be a Swift writer rather than a Rustacean.
